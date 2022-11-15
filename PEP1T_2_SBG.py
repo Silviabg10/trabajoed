@@ -22,4 +22,6 @@ print("Por tanto, al precio de 0.25€/palabra tenemos ", numelen2, "y a 0.50€
 print(f"Total: {precio}€")
 
 
+# Añado lineas desde mi ordenador de casa, Danrodlag
+
 # Hola caracola patimi cocacola
